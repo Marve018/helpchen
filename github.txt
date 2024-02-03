@@ -1,0 +1,7 @@
+Creating GitHub Account and Cloning Repos:
+1. Visit https://github.com/ and sign up for an account.
+2. Once logged in, click on the repository sign at the top then select "New repository." button.
+3. Name the repository and choose other configuration you need and click "Create repository."
+4. Copy the repository URL.
+5. Open your terminal and navigate to the desired directory.
+6. Use the command `git clone [repository URL]` to clone the repository to your local machine.
